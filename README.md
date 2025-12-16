@@ -12,9 +12,9 @@ _____________________________________________________________
 
 ✅ 3 Tactile Buttons (optional)
 
-✅ BW16 Board (bw16E purple board wont work)
+✅ jumper Wires (optional)
 
-✅ jumper Wires
+✅ BW16 Board
 _____________________________________________________________
 
 📋 Wires Connections
@@ -31,11 +31,13 @@ _____________________________________________________________
 
 📋Hints // Notes: 
 
+- bw16E purple board wont work
 - Up + down bottom twice = Back
 - It also works through the web interface at 192.168.1.1, by accessing the Woof Woof AP with the password 0123456789.
 - Red: System status. Lights up when the system is ready for use.
 - Green: Lights up when there is HTTP communication between a device and the Deauther.
 - Blue: Flashes when a deauthentication (deauth) frame is being sent.
+
 
 _____________________________________________________________
 
