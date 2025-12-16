@@ -23,9 +23,10 @@ Display <> BW16
 
 <img width="253" height="207" alt="image" src="https://github.com/user-attachments/assets/5897a97b-ea9c-41ea-8ada-bebdbb0489eb" />
 
-BW16 <> Bottons
+BW16 <> Buttons
 
-<img width="143" height="94" alt="image" src="https://github.com/user-attachments/assets/9ab16e24-8999-4092-9f31-a25f28a92cef" />
+<img width="135" height="108" alt="image" src="https://github.com/user-attachments/assets/64d2ed73-45b8-42f7-8dd1-787040296604" />
+
 
 _____________________________________________________________
 
