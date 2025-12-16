@@ -33,7 +33,6 @@ _____________________________________________________________
 📋Hints // Notes: 
 
 - bw16E purple board wont work
-- Up + down bottom twice = Back
 - It also works through the web interface at 192.168.1.1, by accessing the Woof Woof AP with the password 0123456789.
 - Red: System status. Lights up when the system is ready for use.
 - Green: Lights up when there is HTTP communication between a device and the Deauther.
