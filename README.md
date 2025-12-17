@@ -28,6 +28,22 @@ BW16 <> Buttons
 <img width="135" height="84" alt="image" src="https://github.com/user-attachments/assets/b05b8083-4687-4ed3-99cc-989a76160dff" />
 
 
+_____________________________________________________________
+📋 Flashing
+
+1 - Download Dawg.bin on archives repository tab.
+
+2 -  Open this  [nethercap-web-flasher](https://nethercap-web-flasher-v2.vercel.app/)  *Credits to [Cancro29](https://github.com/Cancro29)*
+
+3 - Plug usb cable on BW16
+
+4 - Click on "Select Archive" > Connect Device > Select your COM PORT > Start Flashing
+
+5 - Wait
+
+
+
+
 
 _____________________________________________________________
 
