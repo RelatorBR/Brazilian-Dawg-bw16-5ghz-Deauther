@@ -55,7 +55,18 @@ _____________________________________________________________
 - Green: Lights up when there is HTTP communication between a device and the Deauther.
 - Blue: Flashes when a deauthentication (deauth) frame is being sent.
 
+
+______________________________________________________________
+📬 Support / Collaboration
+
 My Telegram: https://t.me/RelatorBR
+
+
+Pix:
+
+<img width="203" height="194" alt="image" src="https://github.com/user-attachments/assets/dce8d212-cbf8-4024-97da-603562b804bc" />
+
+
 
 _____________________________________________________________
 
