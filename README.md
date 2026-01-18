@@ -1,8 +1,11 @@
 # BW16 - Brazillian Dawg
 
-<img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/e03a83f2-3cb7-402b-a89e-2a48d7d13b2a" />
+<p align="center">
+  <img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/e03a83f2-3cb7-402b-a89e-2a48d7d13b2a" />
+</p>
 
-This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
+
+Disclaimer: This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
 
 
 _____________________________________________________________
@@ -13,7 +16,7 @@ _____________________________________________________________
 
 ✅ 3 Tactile Buttons 
 
-✅ jumper Wires (optional)
+✅ Wires or Jumper Wires
 
 ✅ BW16 Board (not 16e)
 _____________________________________________________________
@@ -34,30 +37,17 @@ _____________________________________________________________
 
 1 - Download Dawg.bin on archives repository tab.
 
-2 -  Open this  [nethercap-web-flasher](https://nethercap-web-flasher-v2.vercel.app/)  *Credits to [Cancro29](https://github.com/Cancro29)*
+2 -  Open this  [nethercap-web-flasher](https://nethercap-web-flasher-v2.vercel.app/)  (*Credits to [Cancro29](https://github.com/Cancro29)*)
 
 3 - Plug usb cable on BW16
 
 4 - Click on "Select Archive" > Connect Device > Select your COM PORT > Start Flashing
 
-5 - Wait
-
-
-
-
-
-_____________________________________________________________
-
-📋Hints // Notes: 
-
-- bw16E purple board wont work
-- It also works through the web interface at 192.168.1.1, by accessing the Woof Woof AP with the password 0123456789.
-- Red: System status. Lights up when the system is ready for use.
-- Green: Lights up when there is HTTP communication between a device and the Deauther.
-- Blue: Flashes when a deauthentication (deauth) frame is being sent.
+5 - Wait for Ending Process.
 
 
 ______________________________________________________________
+
 📬 For Support / Collaboration:
 
 Call me on Telegram: https://t.me/RelatorBR
