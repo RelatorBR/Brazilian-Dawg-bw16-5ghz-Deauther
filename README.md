@@ -1,5 +1,6 @@
 # BW16 - Brazillian Dawg
-<img width="128" height="160" alt="image" src="https://github.com/user-attachments/assets/6c47594f-0c26-4003-b087-a130dcc48864" />
+
+<img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/e03a83f2-3cb7-402b-a89e-2a48d7d13b2a" />
 
 This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
 
@@ -8,13 +9,13 @@ _____________________________________________________________
 
 📋 Requirements
 
-✅ Display Lcd Tft stts 1.8 128x160 (optional)
+✅ Display Lcd Tft stts 1.8 128x160
 
-✅ 3 Tactile Buttons (optional)
+✅ 3 Tactile Buttons 
 
 ✅ jumper Wires (optional)
 
-✅ BW16 Board
+✅ BW16 Board (not 16e)
 _____________________________________________________________
 
 📋 Wires Connections
@@ -57,16 +58,9 @@ _____________________________________________________________
 
 
 ______________________________________________________________
-📬 Support / Collaboration
+📬 For Support / Collaboration:
 
-My Telegram: https://t.me/RelatorBR
-
-
-Pix:
-
-<img width="203" height="194" alt="image" src="https://github.com/user-attachments/assets/dce8d212-cbf8-4024-97da-603562b804bc" />
-
-
+Call me on Telegram: https://t.me/RelatorBR
 
 _____________________________________________________________
 
@@ -79,14 +73,4 @@ I would like to thank [tesa-klebeband](https://github.com/tesa-klebeband) with h
 
 # License
 All files within this repo are released under the GNU GPL V3 License as per the LICENSE file stored in the root of this repo.
-
-
-
-
-
-
-
-
-
-
 
