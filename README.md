@@ -12,14 +12,15 @@ _____________________________________________________________
 
 📋 Requirements
 
-✅ Display Lcd Tft stts 1.8 128x160
-
-✅ 3 Tactile Buttons 
-
-✅ Wires or Jumper Wires
-
 ✅ BW16 Board (not 16e)
-_____________________________________________________________
+
+✅ Display Lcd Tft stts 1.8 128x160 (Optional)
+
+✅ 3 Tactile Buttons (Optional)
+
+✅ Wires or Jumper Wires (Optional)
+
+______________________________________________________________
 
 📋 Wires Connections
 
@@ -45,6 +46,12 @@ _____________________________________________________________
 
 5 - Wait for Ending Process.
 
+
+______________________________________________________________
+
+📋 Hints
+
+- You can access it by connecting to the Wi-Fi network named “Woof Woof” using the password 0123456789. After connecting, open a web browser and enter the IP address 192.168.1.1.
 
 ______________________________________________________________
 
