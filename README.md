@@ -55,9 +55,16 @@ ______________________________________________________________
 
 ______________________________________________________________
 
-📬 For Support / Collaboration:
+📬 For Collaboration:
 
 Call me on Telegram: https://t.me/RelatorBR
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=PEXWVAWGCNFRL">
+    <img src="https://github.com/user-attachments/assets/243ce8be-1c0a-4101-b68e-708b1f4c9953" width="400">
+  </a>
+</p>
+
 
 _____________________________________________________________
 
