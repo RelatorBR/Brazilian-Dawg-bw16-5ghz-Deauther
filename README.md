@@ -1,8 +1,9 @@
 # BW16 - Brazillian Dawg
 
 <p align="center">
-  <img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/e03a83f2-3cb7-402b-a89e-2a48d7d13b2a" />
+  <img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/77214548-30ee-4cf4-ba1b-407ebcd377dd" />
 </p>
+
 
 
 Disclaimer: This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
