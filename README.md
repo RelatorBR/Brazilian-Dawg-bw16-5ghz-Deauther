@@ -15,11 +15,11 @@ _____________________________________________________________
 
 ✅ BW16 Board (not 16e)
 
-✅ Display Lcd Tft stts 1.8 128x160 (Optional)
+⚠️ Display Lcd Tft stts 1.8 128x160 (*Optional*)
 
-✅ 3 Tactile Buttons (Optional)
+⚠️ 3 Tactile Buttons (*Optional*)
 
-✅ Wires or Jumper Wires (Optional)
+⚠️ Wires or Jumper Wires (*Optional*)
 
 ______________________________________________________________
 
@@ -52,7 +52,7 @@ ______________________________________________________________
 
 📋 Hints
 
-- You can access it by connecting to the Wi-Fi network named “Woof Woof” using the password 0123456789. After connecting, open a web browser and enter the IP address 192.168.1.1.
+- If use Dawg_no_display, You can access it by connecting to the Wi-Fi network named “Woof Woof” using the password 0123456789. After connecting, open a web browser and enter the IP address 192.168.1.1.
 
 ______________________________________________________________
 
