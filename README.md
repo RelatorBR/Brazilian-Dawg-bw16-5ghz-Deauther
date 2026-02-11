@@ -41,9 +41,9 @@ _____________________________________________________________
 
 2 -  Open this  [nethercap-web-flasher](https://nethercap-web-flasher-v2.vercel.app/)  (*Credits to [Cancro29](https://github.com/Cancro29)*)
 
-3 - Plug usb cable on BW16
+3 - Plug usb cable on BW16 > Connect Device > Select your COM PORT
 
-4 - Click on "Select Archive" > Connect Device > Select your COM PORT > Start Flashing
+4 - Click on "Choose file" > Select Dawg.bin (for display ver.) or Dawg_no_display.bin > Start Flashing
 
 5 - Wait for Ending Process.
 
