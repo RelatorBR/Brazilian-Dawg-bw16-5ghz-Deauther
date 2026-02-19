@@ -37,7 +37,7 @@ BW16 <> Buttons
 _____________________________________________________________
 📋 Flashing
 
-1 - Download Dawg.bin on archives repository tab.
+1 - Download .bin on [repository tab](https://github.com/RelatorBR/Brazilian-Dawg-bw16-5ghz-Deauther/releases).
 
 2 -  Open this  [nethercap-web-flasher](https://nethercap-web-flasher-v2.vercel.app/)  (*Credits to [Cancro29](https://github.com/Cancro29)*)
 
