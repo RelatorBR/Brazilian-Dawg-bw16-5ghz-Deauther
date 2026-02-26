@@ -54,10 +54,21 @@ ______________________________________________________________
 
 - If use Dawg_no_display, You can access it by connecting to the Wi-Fi network named “Woof Woof” using the password 0123456789. After connecting, open a web browser and enter the IP address 192.168.1.1.
 - Deauthenticates all clients connected to one (*Single Deauth*) or multiple networks (*Deauth All*). Select the networks you want to deauth in the table above and click Start Attack!.
-- EVILTWIN included on premium version.
+
+
+ ______________________________________________________________
+📋🟢 Premium 
+  
+- EVILTWIN included only premium version, if u donate 5$ , you will receive bin file.
+
+- U need send me MAC address from your bw16 board, It will not be possible to install it on other boards, which is why it is essential that the correct MAC address is sent.
+
+- It will not be possible to install it on other boards, which is why it is essential that the correct MAC address is sent.
+
+- For this, please follow the tutorial on this [page]()
 ______________________________________________________________
 
-📬 For Collaboration:
+📬 For 
 
 Call me on Telegram: https://t.me/RelatorBR
 
