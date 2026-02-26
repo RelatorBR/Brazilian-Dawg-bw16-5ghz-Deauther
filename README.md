@@ -65,10 +65,10 @@ ______________________________________________________________
 
 - It will not be possible to install it on other boards, which is why it is essential that the correct MAC address is sent.
 
-- For this, please follow the tutorial on this [page]()
+- For this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
 ______________________________________________________________
 
-📬 For 
+📬 For Contact: 
 
 Call me on Telegram: https://t.me/RelatorBR
 
