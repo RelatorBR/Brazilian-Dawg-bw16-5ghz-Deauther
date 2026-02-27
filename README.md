@@ -4,6 +4,12 @@
   <img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/77214548-30ee-4cf4-ba1b-407ebcd377dd" />
 </p>
 
+<p align="center"><img width="128" height="160" alt="Scannetworks" src="https://github.com/user-attachments/assets/46c95e02-ffc2-409c-b5bb-3b8848d895bf" />
+<img width="128" height="160" alt="SingleDeauth" src="https://github.com/user-attachments/assets/ab764eaa-e8fc-462e-b867-52c8b66ea949" />
+<img width="128" height="160" alt="DeauthAll" src="https://github.com/user-attachments/assets/91152e40-b020-43a1-b291-5c79ea8fc393" />
+<img width="128" height="160" alt="About" src="https://github.com/user-attachments/assets/77b82559-2066-4377-a224-073001b2fef1" />
+<img width="128" height="160" alt="Settings" src="https://github.com/user-attachments/assets/713decae-4e87-4e53-8905-0f43ae4465f0" />
+<img width="128" height="160" alt="Eviltwin" src="https://github.com/user-attachments/assets/18bfffb5-18b5-4693-bca8-011039c22a37" /></p>
 
 
 Disclaimer: This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
@@ -59,11 +65,11 @@ ______________________________________________________________
  ______________________________________________________________
 📋🟢 Premium 
   
-- EVILTWIN included only premium version, if u donate 5$ , you will receive bin file.
+- EVILTWIN included only premium version, if u donate 3$ , you will receive bin file.
 
 - U need send me MAC address from your bw16 board, It will not be possible to install it on other boards, which is why it is essential that the correct MAC address is sent.
 
-- If u dont know how do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
+- If u dont know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
 ______________________________________________________________
 
 📬 For Contact / Donations: 
