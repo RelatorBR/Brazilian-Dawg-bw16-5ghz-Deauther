@@ -1,4 +1,5 @@
-# BW16 - Brazillian Dawg
+# BW16 - Brazillian Dawg  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0848149b-89e3-4cf9-a6ed-86f712c98c31" />
+
 
 <p align="center">
   <img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/77214548-30ee-4cf4-ba1b-407ebcd377dd" />
