@@ -1,18 +1,5 @@
 # BW16 - Brazillian Dawg  <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0848149b-89e3-4cf9-a6ed-86f712c98c31" />
 
-
-<p align="center">
-  <img width="128" height="160" alt="Logo" src="https://github.com/user-attachments/assets/77214548-30ee-4cf4-ba1b-407ebcd377dd" />
-</p>
-
-<p align="center"><img width="128" height="160" alt="Scannetworks" src="https://github.com/user-attachments/assets/46c95e02-ffc2-409c-b5bb-3b8848d895bf" />
-<img width="128" height="160" alt="SingleDeauth" src="https://github.com/user-attachments/assets/ab764eaa-e8fc-462e-b867-52c8b66ea949" />
-<img width="128" height="160" alt="DeauthAll" src="https://github.com/user-attachments/assets/91152e40-b020-43a1-b291-5c79ea8fc393" />
-<img width="128" height="160" alt="About" src="https://github.com/user-attachments/assets/77b82559-2066-4377-a224-073001b2fef1" />
-<img width="128" height="160" alt="Settings" src="https://github.com/user-attachments/assets/713decae-4e87-4e53-8905-0f43ae4465f0" />
-<img width="128" height="160" alt="Eviltwin" src="https://github.com/user-attachments/assets/18bfffb5-18b5-4693-bca8-011039c22a37" /></p>
-
-
 Disclaimer: This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
 
 
@@ -72,7 +59,27 @@ ______________________________________________________________
 
 - If u dont know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
 ______________________________________________________________
+🎨Themes: 
 
+<img width="128" height="160" alt="logo" src="https://github.com/user-attachments/assets/d199a365-fbfa-4cff-96af-955d4cf833ce" />
+<img width="128" height="160" alt="DeauthAll" src="https://github.com/user-attachments/assets/08f45ad2-3192-4baa-a907-d6ace85cfeef" />
+<img width="128" height="160" alt="SingleDeauth" src="https://github.com/user-attachments/assets/2ec4e8ac-3ccc-49a0-966f-1e998e31e320" />
+<img width="128" height="160" alt="About" src="https://github.com/user-attachments/assets/eca3a437-a65f-442a-8d4b-c4a1016eaec9" />
+<img width="128" height="160" alt="Settings" src="https://github.com/user-attachments/assets/0d6c9f10-7120-4857-8167-b9194f7f84b2" />
+<img width="128" height="160" alt="Eviltwin" src="https://github.com/user-attachments/assets/4206877d-2a4f-4eaf-b614-fa808d7570dd" />
+
+<img width="128" height="160" alt="logo2" src="https://github.com/user-attachments/assets/3b4ea2e6-bd33-428d-ab14-d0afa3b3e178" />
+<img width="128" height="160" alt="deauthall2" src="https://github.com/user-attachments/assets/8e0cf5cc-489a-406b-828e-0275ee3beaef" />
+<img width="128" height="160" alt="singledeauth2" src="https://github.com/user-attachments/assets/c8c78801-6088-446e-aed8-4546443084f8" />
+<img width="128" height="160" alt="About2" src="https://github.com/user-attachments/assets/c1deafab-dae9-4688-bf27-ef9072419d04" />
+<img width="128" height="160" alt="settings2" src="https://github.com/user-attachments/assets/1ee63e8a-1132-481a-859e-39430d9b3910" />
+<img width="128" height="160" alt="eviltwin2" src="https://github.com/user-attachments/assets/2a6ff893-005e-4a5c-a494-724d7c2e6239" />
+
+
+
+
+
+______________________________________________________________
 📬 For Contact / Donations: 
 
 Call me on Telegram: https://t.me/RelatorBR
