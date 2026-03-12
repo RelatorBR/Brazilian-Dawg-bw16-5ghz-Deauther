@@ -68,17 +68,6 @@ ______________________________________________________________
 <img width="128" height="160" alt="Settings" src="https://github.com/user-attachments/assets/0d6c9f10-7120-4857-8167-b9194f7f84b2" />
 <img width="128" height="160" alt="Eviltwin" src="https://github.com/user-attachments/assets/4206877d-2a4f-4eaf-b614-fa808d7570dd" />
 
-<img width="128" height="160" alt="logo2" src="https://github.com/user-attachments/assets/3b4ea2e6-bd33-428d-ab14-d0afa3b3e178" />
-<img width="128" height="160" alt="deauthall2" src="https://github.com/user-attachments/assets/8e0cf5cc-489a-406b-828e-0275ee3beaef" />
-<img width="128" height="160" alt="singledeauth2" src="https://github.com/user-attachments/assets/c8c78801-6088-446e-aed8-4546443084f8" />
-<img width="128" height="160" alt="About2" src="https://github.com/user-attachments/assets/c1deafab-dae9-4688-bf27-ef9072419d04" />
-<img width="128" height="160" alt="settings2" src="https://github.com/user-attachments/assets/1ee63e8a-1132-481a-859e-39430d9b3910" />
-<img width="128" height="160" alt="eviltwin2" src="https://github.com/user-attachments/assets/2a6ff893-005e-4a5c-a494-724d7c2e6239" />
-
-
-
-
-
 ______________________________________________________________
 📬 For Contact / Donations: 
 
