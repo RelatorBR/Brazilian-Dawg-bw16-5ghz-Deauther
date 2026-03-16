@@ -59,7 +59,7 @@ ______________________________________________________________
 
 - If u dont know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
 ______________________________________________________________
-🎨Themes: 
+🎨Theme: 
 
 <img width="128" height="160" alt="logo" src="https://github.com/user-attachments/assets/d199a365-fbfa-4cff-96af-955d4cf833ce" />
 <img width="128" height="160" alt="DeauthAll" src="https://github.com/user-attachments/assets/08f45ad2-3192-4baa-a907-d6ace85cfeef" />
@@ -84,9 +84,7 @@ _____________________________________________________________
 
 # Acknowledgements
 
-I would like to thank [tesa-klebeband](https://github.com/tesa-klebeband) with his [work](https://github.com/tesa-klebeband/RTL8720dn-Deauther)
- , who served as an inspiration for this project,Without him, none of this would be possible.
-
+• [tesa-klebeband](https://github.com/tesa-klebeband)
 
 
 # License
