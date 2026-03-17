@@ -19,7 +19,8 @@ ______________________________________________________________
 
 📋 Wires Connections
 
-<img width="414" height="315" alt="image" src="https://github.com/user-attachments/assets/e7c647a2-c80f-4428-af50-22bab34b7fe8" />
+<img width="418" height="330" alt="image" src="https://github.com/user-attachments/assets/3c5c18d1-9cb7-4d13-ac48-0f85df150550" />
+
 
 Display <> BW16 
 
