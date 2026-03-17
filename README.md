@@ -53,7 +53,7 @@ ______________________________________________________________
  ______________________________________________________________
 📋🟢 Premium 
   
-- EVILTWIN included only premium version, if u donate 3$ , you will receive bin file.
+- EVILTWIN included only premium version, contact me on telegram for how to get it.
 
 - U need send me MAC address from your bw16 board, It will not be possible to install it on other boards, which is why it is essential that the correct MAC address is sent.
 
