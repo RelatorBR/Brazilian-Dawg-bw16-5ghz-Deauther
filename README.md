@@ -19,6 +19,8 @@ ______________________________________________________________
 
 📋 Wires Connections
 
+<img width="414" height="315" alt="image" src="https://github.com/user-attachments/assets/e7c647a2-c80f-4428-af50-22bab34b7fe8" />
+
 Display <> BW16 
 
 <img width="253" height="207" alt="image" src="https://github.com/user-attachments/assets/5897a97b-ea9c-41ea-8ada-bebdbb0489eb" />
@@ -26,7 +28,6 @@ Display <> BW16
 BW16 <> Buttons
 
 <img width="135" height="84" alt="image" src="https://github.com/user-attachments/assets/b05b8083-4687-4ed3-99cc-989a76160dff" />
-
 
 _____________________________________________________________
 📋 Flashing
