@@ -20,15 +20,11 @@ ______________________________________________________________
 📋 Wires Connections
 
 <img width="418" height="330" alt="image" src="https://github.com/user-attachments/assets/3c5c18d1-9cb7-4d13-ac48-0f85df150550" />
+<img width="170" height="330" alt="image" src="https://github.com/user-attachments/assets/9542ac0e-298d-4320-9766-f6adebf63d25" />
 
 
-Display <> BW16 
 
-<img width="253" height="207" alt="image" src="https://github.com/user-attachments/assets/5897a97b-ea9c-41ea-8ada-bebdbb0489eb" />
 
-BW16 <> Buttons
-
-<img width="135" height="84" alt="image" src="https://github.com/user-attachments/assets/b05b8083-4687-4ed3-99cc-989a76160dff" />
 
 _____________________________________________________________
 📋 Flashing
