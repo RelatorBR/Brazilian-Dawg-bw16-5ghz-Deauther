@@ -11,7 +11,7 @@ _____________________________________________________________
 
 ⚠️ Display Lcd Tft stts 1.8 128x160 (*Optional*)
 
-⚠️ 3 Tactile Buttons (*Optional*)
+⚠️ Joystick or 3 Tactile Buttons (*Optional*)
 
 ⚠️ Wires or Jumper Wires (*Optional*)
 
