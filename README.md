@@ -44,7 +44,7 @@ ______________________________________________________________
 
 📋 Hints
 
-- If use Dawg_no_display, You can access it by connecting to the Wi-Fi network named “Woof Woof”. After connecting, open a web browser and enter the IP address 192.168.1.1.
+- If use Dawg_no_display, You can access it by connecting to the Wi-Fi network named “Woof Woof”  and a password of 0123456789. After connecting, open a web browser and enter the IP address 192.168.1.1.
 - Deauthenticates all clients connected to one (*Single Deauth*) or multiple AP´s (*Deauth All*). Select the networks you want to deauth in the table above and click Start Attack!.
 
 
