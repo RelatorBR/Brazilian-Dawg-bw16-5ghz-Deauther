@@ -62,9 +62,8 @@ ______________________________________________________________
 <img width="128" height="160" alt="logo" src="https://github.com/user-attachments/assets/d199a365-fbfa-4cff-96af-955d4cf833ce" />
 <img width="128" height="160" alt="DeauthAll" src="https://github.com/user-attachments/assets/08f45ad2-3192-4baa-a907-d6ace85cfeef" />
 <img width="128" height="160" alt="SingleDeauth" src="https://github.com/user-attachments/assets/2ec4e8ac-3ccc-49a0-966f-1e998e31e320" />
-<img width="128" height="160" alt="About" src="https://github.com/user-attachments/assets/eca3a437-a65f-442a-8d4b-c4a1016eaec9" />
-<img width="128" height="160" alt="Settings" src="https://github.com/user-attachments/assets/0d6c9f10-7120-4857-8167-b9194f7f84b2" />
 <img width="128" height="160" alt="Eviltwin" src="https://github.com/user-attachments/assets/4206877d-2a4f-4eaf-b614-fa808d7570dd" />
+<img width="128" height="160" alt="About" src="https://github.com/user-attachments/assets/eca3a437-a65f-442a-8d4b-c4a1016eaec9" />
 
 ______________________________________________________________
 📬 For Contact / Donations: 
