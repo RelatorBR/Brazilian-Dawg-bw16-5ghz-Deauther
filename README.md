@@ -5,29 +5,60 @@ Disclaimer: This tool is intended solely for educational and testing use. Any fo
 
 _____________________________________________________________
 
-📋 Requirements
+📋 Requirements 
 
-✅ BW16 Board (not 16e)
+**Dawg_no_display**
 
-⚠️ Display Lcd Tft stts 1.8 128x160 (*Optional*)
+✅ _BW16 Board (not 16e)_
 
-⚠️ Joystick or 3 Tactile Buttons (*Optional*)
+__
 
-⚠️ Wires or Jumper Wires (*Optional*)
+
+**Dawg_1.8**
+
+✅ _BW16 Board (not 16e)_
+
+✅ _Display Lcd Tft stts 1.8 128x160_
+
+✅  _Joystick or 3 Tactile Buttons_
+
+✅  _Wires + Protoboard or Jumper Wires_
+
+__
+
+
+**Dawg_0.96** 
+
+🧩🧩[COMPATIBLE WITH CHINESE BLACK BOARD KIT](https://ae-pic-a1.aliexpress-media.com/kf/S42bce3268bcf4db1a682f46c83edb636O.jpg_960x960q75.jpg_.avif)
+
+✅ _BW16 Board (not 16e)_
+
+✅  _Display ssd1306 0.96 128x64_
+
+✅  _Joystick or 4 Tactile Buttons_
+
+✅  _Wires + Protoboard or Jumper Wires_
+
 
 ______________________________________________________________
 
-📋 Wires Connections
+🔌 Wires Connections
+
+**Dawg_1.8**
 
 <img width="418" height="330" alt="image" src="https://github.com/user-attachments/assets/3c5c18d1-9cb7-4d13-ac48-0f85df150550" />
 <img width="170" height="330" alt="image" src="https://github.com/user-attachments/assets/9542ac0e-298d-4320-9766-f6adebf63d25" />
 
+__
 
 
+**Dawg_0.96**
+
+soon
 
 
 _____________________________________________________________
-📋 Flashing
+💻Flashing
 
 1 - Download .bin on [repository tab](https://github.com/RelatorBR/Brazilian-Dawg-bw16-5ghz-Deauther/releases).
 
@@ -35,29 +66,45 @@ _____________________________________________________________
 
 3 - Plug usb cable on BW16 > Connect Device > Select your COM PORT
 
-4 - Click on "Choose file" > Select Dawg.bin (for display ver.) or Dawg_no_display.bin > Start Flashing
+4 - Put BW16 in Flash Mode :
 
-5 - Wait for Ending Process.
+• Hold the BOOT button
+
+• While holding BOOT, press and release RESET
+
+• Release the BOOT button.
+
+• The BW16 is now in flash mode.
+
+5 - Click on "Choose file" > Select .bin downloaded > Start Flashing
+
+6 - Wait for Ending Process.
 
 
 ______________________________________________________________
 
-📋 Hints
+📱 Functions 
 
-- If use Dawg_no_display, You can access it by connecting to the Wi-Fi network named “Woof Woof”  and a password of 0123456789. After connecting, open a web browser and enter the IP address 192.168.1.1.
-- Deauthenticates all clients connected to one (*Single Deauth*) or multiple AP´s (*Deauth All*). Select the networks you want to deauth in the table above and click Start Attack!.
+**Single Deauth**: Sends deauthentication management frames to a single target router to forcibly disconnect its clients.
 
+**Deauth All**: Sends deauthentication management frames to forcibly disconnect all connected clients from all target networks.
+
+**Evil Twin** : Sends deauthentication management frames while simultaneously cloning the target network, creating a fake access point that mimics the original to attract and connect clients, when connected to the cloned access point, clients are redirected to a fake page that requests the Wi-Fi password. If the password is entered, it is captured and displayed to the attacker.
 
  ______________________________________________________________
-📋🟢 Premium 
+💎Premium 
   
-- EVILTWIN included only premium version, contact me on telegram for how to get it.
+- In the repository, only trial versions will be available, where all functions can be used for only 10 minutes. If you are interested in the unlimited premium version, contact me on Telegram.
 
-- U need send me MAC address from your bw16 board, It will not be possible to install it on other boards, which is why it is essential that the correct MAC address is sent.
+- You need to send me the MAC address of your BW16 board. It will not be possible to install it on other boards, so it is essential that the correct MAC address is provided.
 
 - If u dont know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
 ______________________________________________________________
 🎨Theme: 
+
+
+**Dawg_1.8**
+
 
 <img width="128" height="160" alt="logo" src="https://github.com/user-attachments/assets/d199a365-fbfa-4cff-96af-955d4cf833ce" />
 <img width="128" height="160" alt="Scannetworks" src="https://github.com/user-attachments/assets/a37f965d-9fbc-482e-a35f-8b2f2a88fd64" />
@@ -95,7 +142,7 @@ Call me on Telegram: https://t.me/RelatorBR
 
 _____________________________________________________________
 
-# Acknowledgements
+🙏🏻 Acknowledgements
 
 • [tesa-klebeband](https://github.com/tesa-klebeband)
 
