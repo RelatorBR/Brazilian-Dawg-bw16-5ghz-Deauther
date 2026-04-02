@@ -54,7 +54,20 @@ __
 
 **Dawg_0.96**
 
-soon
+<img width="492" height="383" alt="image" src="https://github.com/user-attachments/assets/e1f8c661-ce6d-4b64-b441-2cbb5ffa9514" /> <img width="181" height="383" alt="image" src="https://github.com/user-attachments/assets/e0264980-5adc-4815-be18-2a9c4090408b" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 _____________________________________________________________
