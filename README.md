@@ -102,7 +102,7 @@ ______________________________________________________________
 
 **Deauth All**: Sends deauthentication management frames to forcibly disconnect all connected clients from all target networks.
 
-**Evil Twin** : Sends deauthentication management frames while simultaneously cloning the target network, creating a fake access point that mimics the original to attract and connect clients, when connected to the cloned access point, clients are redirected to a fake page that requests the Wi-Fi password. If the password is entered, it is captured and displayed to the attacker.
+**Evil Twin** : Sends deauthentication management frames while simultaneously cloning the target network, creating a fake access point that mimics the original to attract and connect clients, when connected to the cloned access point, clients are redirected to a fake page that requests the Wi-Fi password. If the password is entered, it is captured and displayed to the attacker, In the attack, select the SSIDs (Wi-Fi names) from the same network for both 2.4 GHz and 5 GHz. This way, both signals will be deauthenticated, and the 5 GHz network will be cloned. .
 
  ______________________________________________________________
 💎Premium 
