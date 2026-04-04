@@ -29,8 +29,6 @@ __
 
 **Dawg_0.96** 
 
-🧩🧩[COMPATIBLE WITH CHINESE BLACK BOARD KIT](https://ae-pic-a1.aliexpress-media.com/kf/S42bce3268bcf4db1a682f46c83edb636O.jpg_960x960q75.jpg_.avif)
-
 ✅ _BW16 Board (not 16e)_
 
 ✅  _Display ssd1306 0.96 128x64_
