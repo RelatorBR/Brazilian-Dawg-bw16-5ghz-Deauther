@@ -71,11 +71,9 @@ __
 _____________________________________________________________
 💻Flashing
 
-1 - Download .bin on [repository tab](https://github.com/RelatorBR/Brazilian-Dawg-bw16-5ghz-Deauther/releases).
+1 - Open [Dawg Flasher](https://dawg-flasher.vercel.app/)
 
-2 -  Open this  [nethercap-web-flasher](https://nethercap-web-flasher-v2.vercel.app/)  (*Credits to [Cancro29](https://github.com/Cancro29)*)
-
-3 - Plug usb cable on BW16 > Connect Device > Select your COM PORT
+2 - Plug usb cable on BW16 > Connect Device > Select your COM PORT
 
 4 - Put BW16 in Flash Mode :
 
@@ -87,7 +85,7 @@ _____________________________________________________________
 
 • The BW16 is now in flash mode.
 
-5 - Click on "Choose file" > Select .bin downloaded > Start Flashing
+5 - Click Firmware and choose version, click start Flash
 
 6 - Wait for Ending Process.
 
