@@ -37,6 +37,7 @@ ______________________________________________________________
 
 <table>
 <tr>
+
 <td><img src="https://github.com/user-attachments/assets/ec996960-5d01-48e6-9d26-fecc2d4d4719" width="468"></td>
 <td><img src="https://github.com/user-attachments/assets/9542ac0e-298d-4320-9766-f6adebf63d25" width="170"></td>
 </tr>
@@ -48,7 +49,7 @@ __
 
 <table>
 <tr>
-<td><img src="https://github.com/user-attachments/assets/9dfdca4a-b252-45b5-aff2-c687c3fa3c81" width="492"></td>
+<td><img src="https://github.com/user-attachments/assets/5e2aebc3-b53d-4b94-8bfa-2f5169607278" width="468"></td>
 <td><img src="https://github.com/user-attachments/assets/e0264980-5adc-4815-be18-2a9c4090408b" width="181"></td>
 </tr>
 </table>
