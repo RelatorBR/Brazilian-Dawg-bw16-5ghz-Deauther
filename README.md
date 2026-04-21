@@ -126,7 +126,7 @@ ______________________________________________________________
 
 ______________________________________________________________
 
-📬 For Contact / Donations
+📬 For Contact / Donations (Crypto)
 
 Call me on Telegram: https://t.me/RelatorBR
 
