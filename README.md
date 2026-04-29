@@ -22,10 +22,10 @@ __
 
 __
 
-**Dawg_0.96**
+**Dawg_0.96/1.3**
 
 ✅ _BW16 Board (not 16e)_  
-✅ _Display ssd1306 0.96 128x64_  
+✅ _Display ssd1306 0.96/1.3 128x64_  
 ✅ _Joystick or 4 Tactile Buttons_  
 ✅ _Wires + Protoboard or Jumper Wires_
 
