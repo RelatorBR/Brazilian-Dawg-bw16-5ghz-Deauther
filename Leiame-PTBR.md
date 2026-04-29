@@ -18,7 +18,7 @@ Dawg_1.8
 
 __
 
-Dawg_0.96
+Dawg_0.96/1.3
 
 ✅ Placa BW16 (não 16e)
 ✅ Display SSD1306 0.96" 128x64
