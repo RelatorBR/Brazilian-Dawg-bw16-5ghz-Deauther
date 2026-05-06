@@ -62,6 +62,8 @@ Evil Twin: Envia quadros de desautenticação enquanto clona simultaneamente a r
 
 Use o mesmo SSID para redes 2.4 GHz e 5 GHz. Assim, ambos os sinais serão desautenticados, e a rede 5 GHz será clonada.
 
+DDoS Router: Envia pacotes de autenticação para sobrecarregar um roteador, com um volume excessivo de requisições, tornando-o lento ou completamente indisponível para usuários legítimos.
+
 💎 Premium
 No repositório estarão disponíveis apenas versões de teste, onde todas as funções podem ser usadas por apenas 10 minutos.
 Se tiver interesse na versão premium ilimitada, entre em contato comigo no Telegram.
