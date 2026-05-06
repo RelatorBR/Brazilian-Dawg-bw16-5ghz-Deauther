@@ -71,9 +71,41 @@ A versão premium inclui: todas as variantes .bin (1.8, 0.96 e sem display) e ar
 Será necessário enviar o MAC Address da sua placa BW16.
 Não será possível instalar em outras placas, portanto é essencial informar o MAC correto.
 Se não souber como fazer isso, siga o tutorial nesta página
-🎨 Tema
-Dawg_1.8
-<table align="center"> <tr> <td><img src="https://github.com/user-attachments/assets/d199a365-fbfa-4cff-96af-955d4cf833ce" width="128"></td> <td><img src="https://github.com/user-attachments/assets/a37f965d-9fbc-482e-a35f-8b2f2a88fd64" width="128"></td> <td><img src="https://github.com/user-attachments/assets/2ec4e8ac-3ccc-49a0-966f-1e998e31e320" width="128"></td> <td><img src="https://github.com/user-attachments/assets/08f45ad2-3192-4baa-a907-d6ace85cfeef" width="128"></td> <td><img src="https://github.com/user-attachments/assets/4206877d-2a4f-4eaf-b614-fa808d7570dd" width="128"></td> <td><img src="https://github.com/user-attachments/assets/eca3a437-a65f-442a-8d4b-c4a1016eaec9" width="128"></td> </tr> <tr> <td><img src="https://github.com/user-attachments/assets/d37340a0-081b-43e8-973f-1c517ccfa7c4" width="128"></td> <td><img src="https://github.com/user-attachments/assets/77fba7a6-bb24-4cc3-aca4-23d6ec80c6f7" width="128"></td> <td><img src="https://github.com/user-attachments/assets/8f0c2b9a-2d71-40a9-a7b4-63a09ff74fa1" width="128"></td> <td><img src="https://github.com/user-attachments/assets/6a93d94e-7f79-462e-bc9a-131f3f3cfc27" width="128"></td> <td><img src="https://github.com/user-attachments/assets/85805854-6870-45e9-9318-8cb14be77229" width="128"></td> <td><img src="https://github.com/user-attachments/assets/876feeb4-adbc-40ff-bcb8-b34dcb030c6b" width="128"></td> </tr> </table>
+🎨 Theme
+
+**Dawg_1.8**
+
+<table align="center">
+<tr>
+<td><img src="https://github.com/user-attachments/assets/d199a365-fbfa-4cff-96af-955d4cf833ce" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/a37f965d-9fbc-482e-a35f-8b2f2a88fd64" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/2ec4e8ac-3ccc-49a0-966f-1e998e31e320" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/08f45ad2-3192-4baa-a907-d6ace85cfeef" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/4206877d-2a4f-4eaf-b614-fa808d7570dd" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/5c6ded42-f6b3-4d56-a33d-1f827bb070dd" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/eca3a437-a65f-442a-8d4b-c4a1016eaec9" width="128"></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/d37340a0-081b-43e8-973f-1c517ccfa7c4" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/77fba7a6-bb24-4cc3-aca4-23d6ec80c6f7" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/8f0c2b9a-2d71-40a9-a7b4-63a09ff74fa1" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/6a93d94e-7f79-462e-bc9a-131f3f3cfc27" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/85805854-6870-45e9-9318-8cb14be77229" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/ef6a22f9-208f-456a-bf50-d462d2e10843" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/876feeb4-adbc-40ff-bcb8-b34dcb030c6b" width="128"></td>
+</tr>
+
+<tr>
+<td><img src="https://github.com/user-attachments/assets/998ec999-8db3-4889-a1fb-f3afb253faeb" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/a27126f0-b557-457a-b30e-b998b7503a61" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/579f3696-6dca-4607-92e7-466bc13ed8f3" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/97503e2d-c53e-458c-99f9-2cfe79409d51" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/8083ad3a-06cf-40bd-ad38-3ddcf1be3447" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/76d4c407-06ca-478a-9dc3-4f5f0a78bbe0" width="128"></td>
+<td><img src="https://github.com/user-attachments/assets/d07c3086-c39e-4542-8d81-b5d2d8f8e665" width="128"></td>
+</tr>
+</table>
 📬 Contato / Doações (Crypto)
 
 Me chame no Telegram: https://t.me/RelatorBR
