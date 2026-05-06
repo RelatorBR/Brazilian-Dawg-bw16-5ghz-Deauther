@@ -87,6 +87,8 @@ ______________________________________________________________
 
 Use the same SSID for both 2.4 GHz and 5 GHz networks. This way both signals will be deauthenticated, and the 5 GHz network will be cloned.
 
+**DDoS Router**: Sends Auth packets to overwhelm a router, with an excessive volume of requests, making it slow or completely unavailable to legitimate users 
+
 ______________________________________________________________
 
 💎 Premium
