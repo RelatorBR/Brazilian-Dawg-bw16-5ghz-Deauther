@@ -95,7 +95,7 @@ ______________________________________________________________
 
 - In the repository, only trial versions will be available, where all functions can be used for only 10 minutes.
 - If you are interested in the unlimited premium version, contact me on Telegram.
-- The premium version includes: the all .bin variants (1.8, 0.96, and no display) and STL file for printing the 0.96 case.
+- The premium version includes: the all .bin variants (1.8, 0.96, and no display) and STL(case) files for all versions.
 - You need to send me the MAC address of your BW16 board.
 - It will not be possible to install it on other boards, so it is essential that the correct MAC address is provided.
 - If you don't know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
