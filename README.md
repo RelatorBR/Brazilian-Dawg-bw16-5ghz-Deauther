@@ -136,9 +136,16 @@ ______________________________________________________________
 Call me on Telegram: https://t.me/RelatorBR
 
 <p align="center">
-<a href="https://www.paypal.com/donate/?hosted_button_id=PEXWVAWGCNFRL">
-<img src="https://github.com/user-attachments/assets/243ce8be-1c0a-4101-b68e-708b1f4c9953" width="400">
-</a>
+  <a href="https://ko-fi.com/relatorbr">
+    <img src="https://storage.ko-fi.com/cdn/opengraph_assets/default_creator_og/hz_profile_page.png" width="200" alt="Support me on Ko-fi">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.paypal.com/donate/?hosted_button_id=PEXWVAWGCNFRL">
+<img width="200" height="90" alt="image" src="https://github.com/user-attachments/assets/51215235-3678-446c-bb7e-6800fd3288b7" />
+
+  </a>
 </p>
 
 _____________________________________________________________
