@@ -7,11 +7,6 @@ _____________________________________________________________
 
 📋 Requirements
 
-**Dawg_no_display**
-
-✅ _BW16 Board (not 16e)_
-
-__
 
 **Dawg_1.8**
 
@@ -95,7 +90,7 @@ ______________________________________________________________
 
 - In the repository, only trial versions will be available, where all functions can be used for only 10 minutes.
 - If you are interested in the unlimited premium version, contact me on Telegram.
-- The premium version ($3) includes: the all .bin variants (1.8, 0.96, and no display) and STL(case) files for all versions.
+- The premium version ($3) includes: the .bin firm (1.8 or 0.96) and STL(case) file.
 - You need to send me the MAC address of your BW16 board.
 - It will not be possible to install it on other boards, so it is essential that the correct MAC address is provided.
 - If you don't know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
