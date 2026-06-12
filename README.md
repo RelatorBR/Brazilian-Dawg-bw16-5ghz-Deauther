@@ -94,6 +94,7 @@ ______________________________________________________________
 - You need to send me the MAC address of your BW16 board.
 - It will not be possible to install it on other boards, so it is essential that the correct MAC address is provided.
 - If you don't know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
+- If you have a custom theme that you'd like to use, feel free to send it to me and I can include it in your BIN.
 
 ______________________________________________________________
 
