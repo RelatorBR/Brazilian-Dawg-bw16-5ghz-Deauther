@@ -86,18 +86,6 @@ Use the same SSID for both 2.4 GHz and 5 GHz networks. This way both signals wil
 
 ______________________________________________________________
 
-💎 Premium
-
-- In the repository, only trial versions will be available, where all functions can be used for only 10 minutes.
-- If you are interested in the unlimited premium version, contact me on Telegram.
-- The premium version ($3) includes: the .bin firm (1.8 or 0.96) and STL(case) file.
-- You need to send me the MAC address of your BW16 board.
-- It will not be possible to install it on other boards, so it is essential that the correct MAC address is provided.
-- If you don't know how to do this, please follow the tutorial on this [page](https://github.com/RelatorBR/BW16-See-Mac)
-- If you have a custom theme that you'd like to use, feel free to send it to me and I can include it in your BIN.
-
-______________________________________________________________
-
 🎨 Theme
 
 **Dawg_1.8**
