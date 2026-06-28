@@ -139,6 +139,11 @@ _____________________________________________________________
 • [tesa-klebeband](https://github.com/tesa-klebeband)  
 • [Gigikoln3](https://instagram.com/rn_3d_printer)
 
+📖 Articles
+By : Xsan Lahci
+https://ittampan.wordpress.com/2026/06/28/deep-analysis-of-brazilian-dawg-firmware-the-evolution-of-bw16-wireless-pentesting/
+
+_____________________________________________________________
 # License
 
 All files within this repo are released under the GNU GPL V3 License as per the LICENSE file stored in the root of this repo.
