@@ -71,7 +71,8 @@ _____________________________________________________________
 5 - Click Firmware and choose version, click Start Flash
 
 6 - Wait for ending process
-______________________________________________________________
+__________________________________________________________________________________________________________________________
+
 
 🎨 Theme
 
@@ -80,27 +81,16 @@ ______________________________________________________________
 <table align="center">
 <tr>
 </td>
-<td><img src="https://github.com/user-attachments/assets/d37340a0-081b-43e8-973f-1c517ccfa7c4" width="128"></td>
-<td><img src="https://github.com/user-attachments/assets/77fba7a6-bb24-4cc3-aca4-23d6ec80c6f7" width="128"></td>
-<td><img src="https://github.com/user-attachments/assets/8f0c2b9a-2d71-40a9-a7b4-63a09ff74fa1" width="128"></td>
-<td><img src="https://github.com/user-attachments/assets/6a93d94e-7f79-462e-bc9a-131f3f3cfc27" width="128"></td>
-<td><img src="https://github.com/user-attachments/assets/85805854-6870-45e9-9318-8cb14be77229" width="128"></td>
-<td><img src="https://github.com/user-attachments/assets/ef6a22f9-208f-456a-bf50-d462d2e10843" width="128"></td>
-<td><img src="https://github.com/user-attachments/assets/876feeb4-adbc-40ff-bcb8-b34dcb030c6b" width="128"></td>
+<img width="128" height="160" alt="tema1" src="https://github.com/user-attachments/assets/1167a2f6-28cd-4f7b-803b-5865847e1726" />
+
 </tr>
 
 <tr>
-<td><img width="128" height="160" alt="logo" src="https://github.com/user-attachments/assets/7e2e96ff-b3ac-41f6-afbd-3f530b416f20" /></td>
-<td><img width="128" height="160" alt="Scannetworks" src="https://github.com/user-attachments/assets/da9a42e8-958b-4886-9809-e70c64be2091" /></td>
-<td><img width="128" height="160" alt="SingleDeauth" src="https://github.com/user-attachments/assets/dbfb5d88-3e1a-466b-bbfb-a1b289306a8a" /></td>
-<td><img width="128" height="160" alt="DeauthAll" src="https://github.com/user-attachments/assets/fdf0c046-0ec9-4a8a-9960-f9f8995ece36" /></td>
-<td><img width="128" height="160" alt="Eviltwin" src="https://github.com/user-attachments/assets/9fdb5531-771a-4dfa-933d-ca95ed143253" /></td>
-<td><img width="128" height="160" alt="ddosrouter" src="https://github.com/user-attachments/assets/8910a37a-e715-43fe-94bb-5a90d74e89c2" /></td>
-<td><img width="128" height="160" alt="About" src="https://github.com/user-attachments/assets/397c0c95-4f94-4ce2-b556-bcfc03afb568" />
+<img width="128" height="160" alt="tema2" src="https://github.com/user-attachments/assets/07727440-7449-4c02-bddb-c190cdcc5f89" />
 
 </tr>
 </table>
-______________________________________________________________
+___________________________________________________________________________________________________________________________
 
 📬 For Contact / Donations (Crypto)
 
@@ -118,8 +108,8 @@ Call me on Telegram: https://t.me/RelatorBR
 
   </a>
 </p>
+_______________________________________________________________________________________________________________________________
 
-_____________________________________________________________
 
 🙏🏻 Acknowledgements
 
