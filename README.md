@@ -35,7 +35,7 @@ ______________________________________________________________
 <table>
 <tr>
 
-<td><img src="https://github.com/user-attachments/assets/9542ac0e-298d-4320-9766-f6adebf63d25" width="170"></td>
+<img width="305" height="193" alt="image" src="https://github.com/user-attachments/assets/ec9fea18-46df-47b4-9155-9cb1ad98a4bd" />
 </tr>
 </table>
 
