@@ -80,12 +80,12 @@ ________________________________________________________________________________
 <table align="center">
 <tr>
 </td>
-<img width="128" height="160" alt="tema1" src="https://github.com/user-attachments/assets/1167a2f6-28cd-4f7b-803b-5865847e1726" />
+<img width="128" height="160" alt="1 8(1)" src="https://github.com/user-attachments/assets/cb85ed71-af47-453d-ace1-e287f08afde2" />
 
 </tr>
 
 <tr>
-<img width="128" height="160" alt="tema2" src="https://github.com/user-attachments/assets/07727440-7449-4c02-bddb-c190cdcc5f89" />
+<img width="128" height="160" alt="1 8(2)" src="https://github.com/user-attachments/assets/cee8b05a-9b39-47e7-b2a2-868c7e28e52b" />
 
 </tr>
 </table>
