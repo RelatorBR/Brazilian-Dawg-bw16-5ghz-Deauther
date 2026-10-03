@@ -2,27 +2,25 @@
 # BW16 - Brazillian Dawg <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/0848149b-89e3-4cf9-a6ed-86f712c98c31" />
 
 Disclaimer: This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
+__________________________________________________________________________________________________________________________
 
-_____________________________________________________________
 
-📋 Requirements
-
+🎨 Theme
 
 **Dawg_1.8**
 
-✅ _BW16 Board (not 16e)_  
-✅ _Display Lcd Tft stts 1.8 128x160_  
-✅ _Joystick or 3 Tactile Buttons_  
-✅ _Wires + Protoboard or Jumper Wires_
+<table align="center">
+<tr>
+</td>
+<img width="128" height="160" alt="1 8(1)" src="https://github.com/user-attachments/assets/cb85ed71-af47-453d-ace1-e287f08afde2" />
 
-__
+</tr>
 
-**Dawg_0.96/1.3**
+<tr>
+<img width="128" height="160" alt="1 8(2)" src="https://github.com/user-attachments/assets/cee8b05a-9b39-47e7-b2a2-868c7e28e52b" />
 
-✅ _BW16 Board (not 16e)_  
-✅ _Display ssd1306 0.96/1.3 128x64_  
-✅ _Joystick or 4 Tactile Buttons_  
-✅ _Wires + Protoboard or Jumper Wires_
+</tr>
+</table>
 
 ______________________________________________________________
 
@@ -48,6 +46,28 @@ __
 </tr>
 </table>
 
+
+______________________________________________________________
+📋 Requirements
+
+
+**Dawg_1.8**
+
+✅ _BW16 Board (not 16e)_  
+✅ _Display Lcd Tft stts 1.8 128x160_  
+✅ _Joystick or 3 Tactile Buttons_  
+✅ _Wires + Protoboard or Jumper Wires_
+
+__
+
+**Dawg_0.96/1.3**
+
+✅ _BW16 Board (not 16e)_  
+✅ _Display ssd1306 0.96/1.3 128x64_  
+✅ _Joystick or 4 Tactile Buttons_  
+✅ _Wires + Protoboard or Jumper Wires_
+
+
 _____________________________________________________________
 
 💻 Flashing
@@ -68,26 +88,7 @@ _____________________________________________________________
 5 - Click Firmware and choose version, click Start Flash
 
 6 - Wait for ending process
-__________________________________________________________________________________________________________________________
-
-
-🎨 Theme
-
-**Dawg_1.8**
-
-<table align="center">
-<tr>
-</td>
-<img width="128" height="160" alt="1 8(1)" src="https://github.com/user-attachments/assets/cb85ed71-af47-453d-ace1-e287f08afde2" />
-
-</tr>
-
-<tr>
-<img width="128" height="160" alt="1 8(2)" src="https://github.com/user-attachments/assets/cee8b05a-9b39-47e7-b2a2-868c7e28e52b" />
-
-</tr>
-</table>
-___________________________________________________________________________________________________________________________
+________________________________________________________________________________________________________________
 
 📬 For Contact / Donations (Crypto)
 
@@ -112,7 +113,7 @@ ________________________________________________________________________________
 
 • [tesa-klebeband](https://github.com/tesa-klebeband)  
 
-• [Gigikoln3](https://instagram.com/rn_3d_printer)
+• [Gigikoln3](https://instagram.com/rn_3d_printer) 
 
 • [TikolonDev](https://github.com/TikolonDev)
 
