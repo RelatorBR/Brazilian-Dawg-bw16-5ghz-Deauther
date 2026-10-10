@@ -3,7 +3,7 @@
 
 Disclaimer: This tool is intended solely for educational and testing use. Any form of misuse or engagement in illegal activities using this tool is strictly forbidden. The user assumes full responsibility for any outcomes resulting from its use, which is entirely at their own risk.
 
-Dont forget to read our <img width="77" height="33" alt="image" src="https://github.com/user-attachments/assets/d73cb917-4f03-4b83-b77e-8bad759bcd80" />
+Dont forget to read our [<img width="77" height="33" alt="image" src="https://github.com/user-attachments/assets/d73cb917-4f03-4b83-b77e-8bad759bcd80" />](https://dawg-flasher.vercel.app/) 
 
 
 
