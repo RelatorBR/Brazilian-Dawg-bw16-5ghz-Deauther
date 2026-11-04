@@ -69,7 +69,7 @@ ______________________________________________________________
 
 ✅ _BW16 Board (not 16e)_  
 ✅ _Display Lcd Tft stts 1.8 128x160_  
-✅ _Joystick or 3 Tactile Buttons_  
+✅ _Joystick or 3 Tactile Bottons_  
 ✅ _Wires + Protoboard or Jumper Wires_
 
 __
@@ -78,7 +78,7 @@ __
 
 ✅ _BW16 Board (not 16e)_  
 ✅ _Display ssd1306 0.96/1.3 128x64_  
-✅ _Joystick or 4 Tactile Buttons_  
+✅ _Joystick or 4 Tactile Bottons_  
 ✅ _Wires + Protoboard or Jumper Wires_
 
 
