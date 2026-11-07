@@ -5,37 +5,6 @@ Disclaimer: This tool is intended solely for educational and testing use. Any fo
 
 Dont forget to read our [<img width="77" height="33" alt="image" src="https://github.com/user-attachments/assets/d73cb917-4f03-4b83-b77e-8bad759bcd80" />](https://dawg-flasher.vercel.app/) 
 
-
-
-
-__________________________________________________________________________________________________________________________
-
-
-🎨 Theme
-
-**1.8**
-
-<table align="center">
-<tr>
-</td>
-<img width="128" height="160" alt="1 8(1)" src="https://github.com/user-attachments/assets/cb85ed71-af47-453d-ace1-e287f08afde2" />
-
-</tr>
-
-<tr>
-<img width="128" height="160" alt="1 8(2)" src="https://github.com/user-attachments/assets/cee8b05a-9b39-47e7-b2a2-868c7e28e52b" />
-
-</tr>
-
-_
-
-**0.96/1.3**
-<tr>
-<img width="128" height="64" alt="download" src="https://github.com/user-attachments/assets/6b5b30c2-7143-40c5-9883-40c32f1a3d6c" />
-
-</tr>  
-</table>
-
 ______________________________________________________________
 
 🔌 Wires Connections
