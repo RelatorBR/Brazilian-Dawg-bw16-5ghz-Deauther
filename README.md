@@ -7,7 +7,7 @@ Dont forget to read our [<img width="77" height="33" alt="image" src="https://gi
 
 ______________________________________________________________
 
-🎨 Theme
+🎨 Themes
 
 **1.8**
 
@@ -32,6 +32,7 @@ _
 </tr>  
 </table>
 
+______________________________________________________________
 
 🔌 Wires Connections
 
