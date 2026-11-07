@@ -97,7 +97,7 @@ _____________________________________________________________
 
 3 - Open [Dawg Flasher](https://dawg-flasher.vercel.app/)
 
-4 - Plug usb cable on BW16 > Connect Device > Select your COM PORT > Click OK
+4 - ClickConnect Device > Select your COM PORT > Click OK
 
 5 - Click Firmware and choose version, click Start Flash
 
