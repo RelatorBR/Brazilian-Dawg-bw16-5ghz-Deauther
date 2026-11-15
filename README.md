@@ -5,6 +5,8 @@ Disclaimer: This tool is intended solely for educational and testing use. Any fo
 
 Dont forget to read our [<img width="77" height="33" alt="image" src="https://github.com/user-attachments/assets/d73cb917-4f03-4b83-b77e-8bad759bcd80" />](https://dawg-flasher.vercel.app/) 
 
+• The Premium firmware will now be a one-time purchase. All subsequent updates will be free, but you’ll need to contact me.
+
 ______________________________________________________________
 
 🎨 Themes
