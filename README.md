@@ -102,7 +102,7 @@ ________________________________________________________________________________
 
 📬 For Contact / Donations (Crypto)
 
-Call me on Telegram: https://t.me/RelatorBR
+Call me on [Telegram Group](https://t.me/+F_4PkvG7o_80OGNh)
 
 <p align="center">
   <a href="https://ko-fi.com/relatorbr">
